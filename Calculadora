@@ -18,5 +18,6 @@ multiplicacion = num_1*num_2;
 division = num_1/num_2;
 
 JOptionPane.showMessageDialog(null,"Suma: " + suma + "\nResta: " + resta + "\nMultiplicaciÃ³n: " + multiplicacion + "\nDivisiÃ³n: " + division);
+println("Hola mundo");
     }
 }
